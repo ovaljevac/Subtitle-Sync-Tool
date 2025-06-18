@@ -80,3 +80,7 @@ scaling_factor = known_factor * (your_video_duration / reference_duration)
 This approach ensures consistent correction across different video lengths.
 
 **
+
+## 📄 License
+
+MIT License — feel free to use, modify, and contribute.
